@@ -5,4 +5,4 @@ Practica de uso de sintaxis Markdown
 ***Italica y negrita***
 
 [Sitio web de la Universidad Nacional (UNA)](https://www.una.ac.cr/)
-<a href="https://www.una.ac.cr/" target="_blank">Hello, world!</a>
+<a href="https://www.una.ac.cr/" target="_blank">
