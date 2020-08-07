@@ -21,3 +21,5 @@ Practica de uso de sintaxis Markdown
 - Primer elemento
 - Segundo elemento
 - Tercer elemento
+   
+   1. Primero elemento
