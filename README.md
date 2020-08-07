@@ -9,5 +9,5 @@ Practica de uso de sintaxis Markdown
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png
 )
 
-![](R_logo.png
+![](R_logo.svg.png
 )
