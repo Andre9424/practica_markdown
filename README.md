@@ -11,3 +11,13 @@ Practica de uso de sintaxis Markdown
 
 ![](R_logo.svg.png
 )
+
+# LISTAS NUMERADAS
+- Primer elemento
+- Segundo elemento
+- Tercer elemento
+
+# LISTAS NO NUMERADAS
+- Primer elemento
+- Segundo elemento
+- Tercer elemento
